@@ -1,0 +1,7 @@
+=begin html
+=encoding utf-8
+=over 4
+
+=head1 今天星期三
+
+=cut
